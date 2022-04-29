@@ -1,0 +1,6 @@
+Strength
+Endurance
+Dexterity
+Intelligence
+Wisdom
+Charisma

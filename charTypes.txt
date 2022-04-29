@@ -1,0 +1,6 @@
+Wizard
+Healer
+Thief
+Ranger
+Fighter
+Barbarian
